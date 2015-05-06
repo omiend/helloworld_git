@@ -1,2 +1,4 @@
 # GitHubの動作に慣れるためのリポジトリー
-# secondに追加
+## Masterに追加
+### secondに追加
+
